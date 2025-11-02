@@ -1,9 +1,9 @@
-package com.github.clechasseur.exercismj.services
+package io.github.clechasseur.exercismj.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.clechasseur.exercismj.MyBundle
+import io.github.clechasseur.exercismj.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

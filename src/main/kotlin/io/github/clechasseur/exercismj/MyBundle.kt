@@ -1,4 +1,4 @@
-package com.github.clechasseur.exercismj
+package io.github.clechasseur.exercismj
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
